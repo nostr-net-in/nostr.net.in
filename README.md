@@ -1,6 +1,6 @@
-         Welcome to nostr.net.in - A free nostr relay in India       
+         Welcome to https://nostr.net.in - A free nostr relay in India       
 
-### **nostr.net.in** 
+### **https://nostr.net.in** 
 
 #### _A FREE nostr relay server in India_
 
