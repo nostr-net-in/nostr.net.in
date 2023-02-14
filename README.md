@@ -1,6 +1,6 @@
          Welcome to https://nostr.net.in - A free nostr relay in India       
 
-### **https://nostr.net.in** 
+### ** https://nostr.net.in ** 
 
 #### _A FREE nostr relay server in India_
 
@@ -35,7 +35,7 @@ _wss://relay.nostr.net.in_
 
 ###### **What is nostr?**
 
-](#collapse1_4)
+]
 
 Nostr is a simple, open protocol that enables global, decentralized, and censorship-resistant social media.
 
@@ -43,7 +43,7 @@ Nostr is a simple, open protocol that enables global, decentralized, and censors
 
 ###### **What is a relay?**
 
-](#collapse2_4)
+]
 
 Relays are like the backend servers for Nostr. They allow Nostr clients to send them messages, and they may (or may not) store those messages and broadcast those messages to all other connected clients.
 
@@ -51,7 +51,7 @@ Relays are like the backend servers for Nostr. They allow Nostr clients to send 
 
 ###### **How I can start using nostr ?**
 
-](#collapse3_4)
+]
 
 You will access Nostr (the protocol) via a client. Clients can be web, desktop, or mobile apps. Clients can fetch data from relays and also generate new data and push that to relays so others can read.
 
@@ -59,7 +59,7 @@ You will access Nostr (the protocol) via a client. Clients can be web, desktop, 
 
 ###### **Where I can read more about nostr?**
 
-](#collapse4_4)
+]
 
 Please visit : https://nostr.how/
 
@@ -67,7 +67,7 @@ Please visit : https://nostr.how/
 
 ###### **Are there any android/iOs app/Web?**
 
-](#collapse5_4)
+]
 
 Absolutely : https://astral.ninja/ for Web | https://damus.io/ for iOS | https://play.google.com/store/apps/details?id=com.vitorpamplona.amethyst for Android
 
